@@ -1,2 +1,2 @@
-# essentials-friendly-name-to-yaml
-Converts friendly names from Essentials to YAML
+# Friendly Name YAML
+Item names converted from EssentialsX
